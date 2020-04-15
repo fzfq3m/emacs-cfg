@@ -5,7 +5,7 @@ Initialization files and folder organization are heavily based on https://github
 
 ```
 mv ~/.emacs.d ~/.emacs.d.bak
-https://github.com/fzfq3m/emacs-cfg ~/.emacs.d
+git clone https://github.com/fzfq3m/emacs-cfg ~/.emacs.d
 ```
 
 This config uses `Ubuntu Mono` as its default font. Get it [here](https://fonts.google.com/specimen/Ubuntu+Mono).
