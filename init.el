@@ -34,7 +34,7 @@
 ;;; Helper modules
 ;(require 'init-company)
 ;(require 'init-flycheck)
-(;require 'init-lsp)
+;(require 'init-lsp)
 
 ;;; Programming languages, disabled by default
 
