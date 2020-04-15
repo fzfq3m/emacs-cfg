@@ -1,4 +1,5 @@
 ;;; RME --- Ryan's Minimal Emacs config
+;;; MODIFIED BY: https://github.com/fzfq3m
 ;;; Commentary:
 ;;; Source located at https://github.com/Borderliner/RME
 
