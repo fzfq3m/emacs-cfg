@@ -6,7 +6,7 @@
 ;;; Disable menu-bar, tool-bar, and scroll-bar for emacs pre 27.0
 (when (version< emacs-version "27.0")
   (if (fboundp 'menu-bar-mode)
-      (menu-bar-mode 1))
+      (menu-bar-mode -1))
   (if (fboundp 'tool-bar-mode)
       (tool-bar-mode -1))
   (if (fboundp 'scroll-bar-mode)
